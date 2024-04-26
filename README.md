@@ -1,10 +1,6 @@
             
 <h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Raj Gupta </h1>
 
-<div align="center">
-<img src ="./Github Banner.jpg" />
-</div>
-<br/>
 
 ## 👨🏻‍💻 About Me:
 
