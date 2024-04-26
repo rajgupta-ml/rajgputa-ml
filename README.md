@@ -1,5 +1,5 @@
             
-<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Vinayak Singh </h1>
+<h1 align="center">Hello<img src="Hi.gif" width="30px" height="30px"> I'm Raj Gupta </h1>
 
 <div align="center">
 <img src ="./Github Banner.jpg" />
@@ -10,9 +10,7 @@
 
 <img  src="./working.gif" height="290px" align="right" />
 
-- 🖐Hi there!, I'm Vinayak Singh.
-
-- 🙋‍♂️ All about me is at [www.vinayaksingh.com](https://vinayaksingh.com)
+- 🖐Hi there!, I'm Raj Gupta.
 
 - 📖 I’m student of MCA at `VIT Chennai`.
 
@@ -61,14 +59,14 @@
 <div align="left">
 <h2>GitHub Stats:</h2>
 </div>            
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CodeVinayak&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rajgupta-ml&theme=highcontrast" alt="GitHub Streak" /></a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVinayak&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajgupta-ml&&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
  <br/>
 
 <h2>Show some ❤️ by starring some of the repositories!</h2>
 <p>
   <a href="https://github.com/CodeVinayak">
-    <img src="https://github-readme-stats.vercel.app/api?username=CodeVinayak&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rajgupta-ml&hide=pulls,pull_requests,contribs&theme=highcontrast&show_icons=true" alt="CodeVinayak's GitHub Stats" />
   </a>
 </p>
